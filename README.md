@@ -1,2 +1,2 @@
 # paginadepresentacion
-pagina breve de presentacion a modo de practica
+Página breve de presentación a modo de practica
